@@ -1,0 +1,23 @@
+{
+    "name": "Ben's Tab",
+    "description": "Load custom page with static bookmarks and resources in a new tab",
+    "version": "1.2.0",
+    "author": "Andrea Benini",
+    "homepage_url": "https://github.com/andreabenini",
+    "manifest_version": 3,
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "options_page": "options.html",
+    "chrome_url_overrides": {
+        "newtab": "newtab.html"
+    },
+    "permissions": [
+        "storage"        
+    ],
+    "host_permissions": [
+        "file:///*"
+    ]    
+}
