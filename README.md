@@ -1,4 +1,5 @@
 # ben.new.tab
+![logo](logo.png)  
 Custom NewTab Page plugin for chromium/chrome compatible browsers
 
 This plugin changes the default new tab web page for Chrome/Chromium compatible browsers.
