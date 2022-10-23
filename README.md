@@ -1,6 +1,6 @@
 # ben.new.tab
 ![logo](logo.png)  
-Custom NewTab Page plugin for chromium/chrome compatible browsers
+## Custom NewTab Page plugin for chromium/chrome compatible browsers
 
 This plugin changes the default new tab web page for Chrome/Chromium compatible browsers.
 You can create your web page with your favorite contents and display it when a new tab is opened.
